@@ -51,3 +51,5 @@ string CountEven(string[] words)
 }
 
 Console.WriteLine(CountEven(names));
+
+//blizko
